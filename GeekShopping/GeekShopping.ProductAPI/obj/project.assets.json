@@ -2203,11 +2203,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos .net_6\\ProjectMicroservicesDotNet6\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
+      "projectUniqueName": "C:\\Projetos .net_6\\Loja_Virtual_Net6\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
       "projectName": "GeekShopping.ProductAPI",
-      "projectPath": "C:\\Projetos .net_6\\ProjectMicroservicesDotNet6\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
+      "projectPath": "C:\\Projetos .net_6\\Loja_Virtual_Net6\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
       "packagesPath": "C:\\Users\\roger\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos .net_6\\ProjectMicroservicesDotNet6\\GeekShopping\\GeekShopping.ProductAPI\\obj\\",
+      "outputPath": "C:\\Projetos .net_6\\Loja_Virtual_Net6\\GeekShopping\\GeekShopping.ProductAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

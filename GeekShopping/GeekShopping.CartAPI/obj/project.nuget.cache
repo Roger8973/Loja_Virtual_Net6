@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7c3Ag4vWKU56H97HsQYBdV06ibkPTRGu5x/MoN6lb4u46I9Jt5vTF+NQBepfsme4VVZo/3s8f9Kz9bEaf9NMNw==",
+  "dgSpecHash": "rPKwdB6m7KPaoG4nep9OacEUNBk65tDiws9EGimMuFMG90kl7ayhMXQlPLDZ8XKWrQvX5KRPO6m9rp2xWOQ91A==",
   "success": true,
-  "projectFilePath": "C:\\Projetos .net_6\\ProjectMicroservicesDotNet6\\GeekShopping\\GeekShopping.CartAPI\\GeekShopping.CartAPI.csproj",
+  "projectFilePath": "C:\\Projetos .net_6\\Loja_Virtual_Net6\\GeekShopping\\GeekShopping.CartAPI\\GeekShopping.CartAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\roger\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\roger\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
